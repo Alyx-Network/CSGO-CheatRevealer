@@ -10,6 +10,7 @@ A plugin for Counter-Strike: Global Offensive that detects if players have used 
 
 ## Configuration
 The plugin uses a config file located at `addons/sourcemod/configs/revealer.cfg`:
+You can read more here: https://docs.alyx.ro/authorization
 
 ```
 "Revealer"
